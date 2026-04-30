@@ -2,7 +2,7 @@
 
 | Day | Topic | Status | Confidence /10 | GitHub Log Added | Notes |
 |-----|-------|--------|----------------|------------------|-------|
-| 1 | Help Desk Foundation | Completed | 7 | Yes | Learned support tiers, troubleshooting flow, and ticket documentation basics. |
+| 1 | Help Desk Foundation | Completed | 8 | Yes | Learned basic IT terms, support tiers, troubleshooting flow, and ticket documentation basics. |
 | 2 | Hardware Basics | Not Started | - | No | - |
 | 3 | Storage, RAM, BIOS/UEFI | Not Started | - | No | - |
 | 4 | Peripherals and Printers | Not Started | - | No | - |
