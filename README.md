@@ -1,10 +1,28 @@
 # IT Help Desk 45-Day Journey
 
-A public learning log for becoming job-ready for IT Help Desk and Tier 2 support roles.
+This is my public learning log for preparing for IT Help Desk and Tier 2 Support roles.
 
-## Goal
+## Why I Created This Repository
 
-Build practical skills in Windows support, computer hardware, software troubleshooting, networking, Active Directory, Microsoft 365, ticketing systems, troubleshooting frameworks, security basics, PowerShell, documentation, real-world scenarios, and interview preparation.
+I created this repository to track my daily progress while building practical IT support skills. My goal is to document what I learn, practice troubleshooting scenarios, improve my technical vocabulary, and build proof of consistent learning.
+
+## Learning Goal
+
+I am working on practical skills in:
+
+- Windows 10/11 support
+- Computer hardware basics
+- Software troubleshooting
+- Networking fundamentals
+- Active Directory basics
+- Microsoft 365 support
+- Ticketing systems
+- Troubleshooting frameworks
+- Security basics
+- PowerShell fundamentals
+- Documentation habits
+- Real-world support scenarios
+- Interview preparation
 
 ## Daily Format
 
@@ -30,4 +48,8 @@ progress-tracker.md
 
 ## Current Status
 
-Training plan created. Day 1 not started yet.
+Day 1 completed.
+
+Current topic: IT Help Desk Foundation.
+
+Next topic: Computer Hardware Basics.
