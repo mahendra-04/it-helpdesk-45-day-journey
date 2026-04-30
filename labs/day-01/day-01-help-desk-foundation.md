@@ -1,7 +1,7 @@
 # Day 1 - IT Help Desk Foundation From Zero
 
 ## Topic
-Understanding what IT Help Desk means, what support technicians do, and how to think when a user reports a problem.
+Today I started with the basic foundation of IT Help Desk. I focused on understanding what IT means, what a Help Desk technician does, and how to think when a user reports a problem.
 
 ## Concepts Learned
 
@@ -21,13 +21,13 @@ A ticket is a written record used to track a user's problem from the first repor
 Troubleshooting means finding the cause of a problem step by step instead of guessing.
 
 ### Hardware
-Hardware means physical parts of a computer or technology setup. Examples: laptop, keyboard, mouse, monitor, printer, charger, RAM, SSD.
+Hardware means physical parts of a computer or technology setup. Examples: laptop, keyboard, mouse, monitor, printer, charger, RAM, and SSD.
 
 ### Software
-Software means programs or apps that run on hardware. Examples: Windows, Chrome, Outlook, Teams, antivirus, printer driver.
+Software means programs or apps that run on hardware. Examples: Windows, Chrome, Outlook, Teams, antivirus, and printer drivers.
 
 ### Operating System
-An operating system is the main software that controls the computer and allows hardware and apps to work together. Examples: Windows 10, Windows 11, macOS, Linux.
+An operating system is the main software that controls the computer and allows hardware and apps to work together. Examples include Windows 10, Windows 11, macOS, and Linux.
 
 ### Tier 1 Support
 Tier 1 is the first support level. It handles basic and common issues like password resets, simple printer issues, basic Wi-Fi issues, and simple software support.
@@ -83,19 +83,20 @@ User says: "My laptop is not working."
 
 1. IT means Information Technology.
 2. Help Desk listens to users, understands their technology issues, and helps fix them.
-3. A ticket is a form of tracking a user's problem.
+3. A ticket is used to track a user's problem.
 4. Troubleshooting means finding and fixing an issue step by step.
 5. Hardware is the physical part of a computer. Software is the programs and apps that run on hardware.
 6. An operating system is the main software that controls the computer and allows hardware and software to work together.
 7. Tier 1 support is basic front-line support for common IT issues.
 8. Tier 2 support solves deeper problems that Tier 1 cannot solve.
-9. Documentation is important to keep track of progress and help with future reference.
+9. Documentation is important because it keeps track of progress and helps with future reference.
 10. A technician should not guess immediately because the wrong action can waste time, hide the real issue, or create a bigger problem.
 
-## Key Correction
-Guessing does not usually cause a short circuit. The main danger is that guessing can waste time, apply the wrong fix, lose evidence, or make the user wait longer.
+## Important Lesson
 
-## Documentation Template
+The main risk of guessing is not usually physical damage. The main risk is wasting time, applying the wrong fix, losing useful clues, or making the user wait longer.
+
+## Documentation Template Practiced
 
 ```text
 Problem:
@@ -110,3 +111,6 @@ Escalation needed:
 
 ## Reflection
 Today I learned the basic meaning of IT, Help Desk, tickets, troubleshooting, hardware, software, operating systems, and support tiers. I also practiced writing questions, possible causes, and documentation for a laptop-not-working scenario.
+
+## Status
+Day 1 completed.
