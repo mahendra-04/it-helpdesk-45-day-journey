@@ -3,7 +3,7 @@
 | Day | Topic | Status | Confidence /10 | GitHub Log Added | Notes |
 |-----|-------|--------|----------------|------------------|-------|
 | 1 | Help Desk Foundation | Completed | 8 | Yes | Learned basic IT terms, support tiers, troubleshooting flow, and ticket documentation basics. |
-| 2 | Hardware Basics | In Progress | Pending quiz | Yes | Learning basic computer parts, hardware issues, and slow computer troubleshooting. |
+| 2 | Hardware Basics | Completed | 8 | Yes | Learned computer hardware basics, checked laptop specs, and practiced slow computer troubleshooting. |
 | 3 | Storage, RAM, BIOS/UEFI | Not Started | - | No | - |
 | 4 | Peripherals and Printers | Not Started | - | No | - |
 | 5 | Hardware Troubleshooting | Not Started | - | No | - |
