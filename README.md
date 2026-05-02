@@ -48,8 +48,12 @@ progress-tracker.md
 
 ## Current Status
 
-Day 1 completed.
+Progress: 5 / 45 days started
 
-Current topic: IT Help Desk Foundation.
+- Day 1: IT Help Desk Foundation - Completed
+- Day 2: Computer Hardware Basics - Completed
+- Day 3: Storage, RAM, Boot, BIOS/UEFI - Completed
+- Day 4: Peripherals and Printers - Completed
+- Day 5: Hardware Troubleshooting Framework - Lesson completed, practice pending after Day 7
 
-Next topic: Computer Hardware Basics.
+Next topic: Day 6 - Windows 10/11 Basics.
