@@ -4,9 +4,9 @@
 |-----|-------|--------|----------------|------------------|-------|
 | 1 | Help Desk Foundation | Completed | 8 | Yes | Learned basic IT terms, support tiers, troubleshooting flow, and ticket documentation basics. |
 | 2 | Hardware Basics | Completed | 8 | Yes | Learned computer hardware basics, checked laptop specs, and practiced slow computer troubleshooting. |
-| 3 | Storage, RAM, BIOS/UEFI | Completed | 6 | Yes | Learned storage, RAM, boot process, BIOS/UEFI basics. Hands-on review still needed. |
-| 4 | Peripherals and Printers | Not Started | - | No | - |
-| 5 | Hardware Troubleshooting | Not Started | - | No | - |
+| 3 | Storage, RAM, BIOS/UEFI | Completed | 8 | Yes | Learned storage, RAM, boot process, BIOS/UEFI basics, completed quiz and hands-on review. |
+| 4 | Peripherals and Printers | Completed | 9 | Yes | Learned peripherals, input/output devices, drivers, Device Manager, printers, and printer troubleshooting. |
+| 5 | Hardware Troubleshooting | Lesson Completed | Pending practice | Yes | Learned hardware troubleshooting framework. Quiz and cases postponed until after Day 7. |
 | 6 | Windows Basics | Not Started | - | No | - |
 | 7 | Users and Permissions | Not Started | - | No | - |
 | 8 | File System and Disk Management | Not Started | - | No | - |
