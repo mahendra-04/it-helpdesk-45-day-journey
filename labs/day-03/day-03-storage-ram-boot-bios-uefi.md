@@ -8,29 +8,8 @@ Today I learned the basics of storage, RAM, boot process, BIOS, and UEFI. These 
 ### Storage
 Storage is where data is saved permanently. It keeps files, apps, documents, photos, videos, and the operating system even after the computer shuts down.
 
-Examples of stored data:
-
-- Windows files
-- Installed apps
-- Documents
-- Downloads
-- Photos
-- Videos
-- Desktop files
-- Temporary files
-
 ### RAM
-RAM means Random Access Memory. It is temporary working memory used by active apps and tasks.
-
-Examples of apps using RAM:
-
-- Chrome
-- VS Code
-- Outlook
-- Teams
-- Word
-
-When the computer shuts down, RAM clears.
+RAM means Random Access Memory. It is temporary working memory used by active apps and tasks. RAM clears when the computer shuts down.
 
 ### RAM vs Storage
 
@@ -39,7 +18,7 @@ When the computer shuts down, RAM clears.
 | Temporary memory | Permanent saving space |
 | Used by active apps | Saves files and apps |
 | Clears after shutdown | Stays after shutdown |
-| Affects multitasking speed | Affects saved data and available space |
+| Fast working space | Long-term saving space |
 
 Simple meaning:
 
@@ -49,44 +28,18 @@ Storage = permanent saving space
 ```
 
 ### HDD
-HDD means Hard Disk Drive. It is older and slower storage with moving parts.
-
-Common HDD symptoms:
-
-- Slow startup
-- Apps open slowly
-- Disk usage stays high
-- Freezing
-- Clicking sound from drive
+HDD means Hard Disk Drive. It is older and slower storage with moving spinning disks inside.
 
 ### SSD
-SSD means Solid State Drive. It is faster than HDD and has no moving spinning disk.
-
-Benefits:
-
-- Faster startup
-- Faster app loading
-- Better performance
-- Less freezing than old HDDs
+SSD means Solid State Drive. It is faster storage with no moving spinning disk.
 
 ### NVMe SSD
 NVMe SSD is a very fast type of SSD used in many modern laptops.
 
 ### C Drive
-In Windows, the main storage drive is usually called C:.
+In Windows, the main storage drive is usually called C:. It contains Windows, programs, user files, downloads, desktop files, temporary files, and app data.
 
-The C drive usually contains:
-
-- Windows
-- Program Files
-- Users folder
-- Desktop
-- Documents
-- Downloads
-- App data
-- Temporary files
-
-A full C drive can make a computer slow. A good rule is to keep at least 15% to 20% free space.
+A good rule is to keep at least 15% to 20% free space.
 
 ## Boot Process
 
@@ -120,11 +73,8 @@ Normally, a laptop should boot from the internal SSD.
 
 BIOS and UEFI are firmware. Firmware is low-level software built into the motherboard that starts before Windows.
 
-### BIOS
-BIOS means Basic Input/Output System. It is the older firmware system.
-
-### UEFI
-UEFI means Unified Extensible Firmware Interface. It is the newer firmware system used in modern computers.
+- BIOS means Basic Input/Output System.
+- UEFI means Unified Extensible Firmware Interface.
 
 Simple meaning:
 
@@ -132,25 +82,7 @@ Simple meaning:
 BIOS/UEFI wakes the computer up before Windows starts.
 ```
 
-## BIOS/UEFI Settings
-
-A technician may check:
-
-- Boot order
-- Storage detection
-- Secure Boot
-- TPM
-- Virtualization
-- System time
-- Hardware information
-
-Important rule:
-
-```text
-Do not randomly change BIOS/UEFI settings on a company laptop.
-```
-
-Wrong changes can cause boot problems or BitLocker recovery prompts.
+BIOS/UEFI is not a port. It is firmware built into the motherboard.
 
 ## Boot Order
 
@@ -178,17 +110,41 @@ TPM means Trusted Platform Module. It is used for security, encryption, and Wind
 
 BitLocker is Windows drive encryption. It protects drive data. If boot settings change, a computer may ask for a BitLocker recovery key.
 
-## Common Help Desk Issues
+Important rule:
 
-- C drive is full
-- Computer is slow
-- Disk usage is 100%
-- No bootable device found
-- Windows stuck on repair screen
-- Laptop asks for BitLocker recovery key
-- Computer does not detect SSD
-- RAM usage is high
-- Computer freezes when opening apps
+```text
+Do not randomly change BIOS/UEFI settings on a company laptop.
+```
+
+## Hands-On Check
+
+### Storage
+- Total storage: 952 GB
+- Used storage: 465 GB
+- Free storage: 487 GB
+
+### Largest Storage Categories
+- GTA 5
+- Microsoft Teams
+- Slack
+
+### RAM
+- Total RAM: 15.8 GB usable
+- RAM in use: 12 GB
+- Available RAM: 3.8 GB
+- RAM speed: 4267 MT/s
+- Slots used: Not upgradeable / soldered RAM on Surface Pro 8
+
+### Laptop
+- Laptop brand/model: Microsoft Surface Pro 8
+
+### BIOS/UEFI Access
+- BIOS/UEFI key: Hold Volume Up + press Power
+- Boot menu key: Hold Volume Down + press Power
+
+## Technician Notes
+
+Storage is healthy because about half of the drive is still free. RAM usage was high because 12 GB out of 15.8 GB was in use. If the laptop feels slow, I should check browser tabs, Teams, Slack, VS Code, Codex, startup apps, and background processes.
 
 ## Troubleshooting Scenario
 
@@ -225,21 +181,21 @@ The laptop turned on, but it could not find a storage drive with Windows.
 4. Check boot order.
 5. Escalate if the internal drive is not detected.
 
-## Mini Quiz Review
+## Mini Quiz Answers
 
-1. Storage saves files, apps, and the operating system permanently.
-2. RAM is temporary working memory used by active apps.
-3. RAM clears after shutdown, while storage keeps data.
-4. HDD is older and slower storage with moving parts.
-5. SSD is faster storage with no moving parts.
-6. Boot means starting the computer and loading the operating system.
-7. A boot device is the device used to start Windows or another OS.
-8. BIOS/UEFI is firmware that starts before Windows.
-9. Boot order decides which device the computer checks first when starting.
-10. No bootable device found usually means the computer cannot find a drive with Windows.
+1. Storage is used to permanently save user data, files, apps, and the operating system.
+2. RAM helps the CPU run active tasks efficiently.
+3. RAM is fast temporary working memory used while the computer is running. Storage is permanent memory where user data and system files are saved.
+4. HDD is an older storage device with spinning disks. It is slower than SSD.
+5. SSD means Solid State Drive. It is faster storage with no spinning disk.
+6. Boot means starting the computer. Firmware starts first, checks hardware, finds the boot device, and loads Windows.
+7. A boot device is the device that contains the operating system files needed to start the computer.
+8. BIOS/UEFI is firmware built into the motherboard. It starts before Windows, checks basic hardware, finds the boot device, and helps start the operating system.
+9. Boot order is the sequence the computer follows when looking for a device to start from.
+10. "No bootable device found" usually means the computer cannot find a valid device with an operating system. Possible causes include wrong boot order, loose or failed SSD/HDD, damaged Windows boot files, or BIOS/UEFI not detecting the drive.
 
 ## Reflection
-Today I learned how storage, RAM, boot devices, BIOS, and UEFI connect to real Help Desk problems. I learned that storage and RAM are different, boot errors are often related to storage or boot order, and BIOS/UEFI settings should not be changed randomly.
+Today I learned how storage, RAM, boot devices, BIOS, and UEFI connect to real Help Desk problems. I corrected my understanding of BIOS/UEFI and learned that it is firmware, not a port. I also checked my laptop storage, RAM usage, and Surface Pro 8 BIOS/boot keys.
 
 ## Status
-Day 3 completed. Extra hands-on practice is still useful for BIOS/UEFI key identification and RAM/storage review.
+Day 3 completed.
