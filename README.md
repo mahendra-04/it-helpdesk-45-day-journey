@@ -8,33 +8,11 @@ I created this repository to track my daily progress while building practical IT
 
 ## Learning Goal
 
-I am working on practical skills in:
+I am working on practical skills in Windows support, computer hardware, software troubleshooting, networking fundamentals, Active Directory basics, Microsoft 365 support, ticketing systems, troubleshooting frameworks, security basics, PowerShell fundamentals, documentation habits, real-world support scenarios, and interview preparation.
 
-- Windows 10/11 support
-- Computer hardware basics
-- Software troubleshooting
-- Networking fundamentals
-- Active Directory basics
-- Microsoft 365 support
-- Ticketing systems
-- Troubleshooting frameworks
-- Security basics
-- PowerShell fundamentals
-- Documentation habits
-- Real-world support scenarios
-- Interview preparation
+## Learning Format
 
-## Daily Format
-
-Each day includes:
-
-- Concepts learned
-- Real-world examples
-- Hands-on tasks
-- Troubleshooting scenario
-- Mini quiz
-- Documentation task
-- Reflection
+Each learning log may include concepts learned, real-world examples, hands-on checks, troubleshooting notes, documentation notes, reflection, and status.
 
 ## Repository Structure
 
@@ -48,12 +26,14 @@ progress-tracker.md
 
 ## Current Status
 
-Progress: 5 / 45 days started
+Progress: 7 / 45 days started
 
 - Day 1: IT Help Desk Foundation - Completed
 - Day 2: Computer Hardware Basics - Completed
 - Day 3: Storage, RAM, Boot, BIOS/UEFI - Completed
 - Day 4: Peripherals and Printers - Completed
-- Day 5: Hardware Troubleshooting Framework - Lesson completed, practice pending after Day 7
+- Day 5: Hardware Troubleshooting Framework - Lesson completed, additional practice later
+- Day 6: Windows 10/11 Basics - Lesson completed
+- Day 7: Windows Users and Permissions - Lesson completed
 
-Next topic: Day 6 - Windows 10/11 Basics.
+Next topic: Day 8 - File System and Disk Management.
