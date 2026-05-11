@@ -9,8 +9,8 @@
 | 5 | Hardware Troubleshooting | Lesson Completed | Review later | Yes | Learned hardware troubleshooting framework. Additional practice will be added later. |
 | 6 | Windows Basics | Lesson Completed | Lesson mode | Yes | Studied Windows 10/11 basics and common support tools. |
 | 7 | Users and Permissions | Lesson Completed | Lesson mode | Yes | Studied Windows accounts, permissions, user profiles, UAC, groups, and least privilege. |
-| 8 | File System and Disk Management | Not Started | - | No | - |
-| 9 | Services and Task Manager | Not Started | - | No | - |
+| 8 | File System and Disk Management | Lesson Completed | Lesson mode | Yes | Studied files, folders, paths, drives, partitions, Disk Management, cleanup tools, and recovery basics. |
+| 9 | Services and Task Manager | Lesson Completed | Lesson mode | Yes | Studied Task Manager, processes, startup apps, Windows services, and safe performance troubleshooting. |
 | 10 | Software Support | Not Started | - | No | - |
 | 11 | Updates and Drivers | Not Started | - | No | - |
 | 12 | Windows Troubleshooting Tools | Not Started | - | No | - |
