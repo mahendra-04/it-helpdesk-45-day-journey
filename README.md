@@ -26,7 +26,7 @@ progress-tracker.md
 
 ## Current Status
 
-Progress: 9 / 45 days started
+Progress: 12 / 45 days started
 
 - Day 1: IT Help Desk Foundation - Completed
 - Day 2: Computer Hardware Basics - Completed
@@ -37,5 +37,8 @@ Progress: 9 / 45 days started
 - Day 7: Windows Users and Permissions - Lesson completed
 - Day 8: File System and Disk Management - Lesson completed
 - Day 9: Windows Services, Startup Apps, and Task Manager - Lesson completed
+- Day 10: Software Installation and Removal - Lesson completed
+- Day 11: Windows Updates, Drivers, and Device Manager - Lesson completed
+- Day 12: Windows Troubleshooting Tools - Lesson completed
 
-Next topic: Day 10 - Software Installation and Removal.
+Next topic: Day 13 - Networking Basics.
