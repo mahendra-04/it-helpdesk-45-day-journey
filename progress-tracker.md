@@ -11,9 +11,9 @@
 | 7 | Users and Permissions | Lesson Completed | Yes | Studied Windows accounts, permissions, user profiles, UAC, groups, and least privilege. |
 | 8 | File System and Disk Management | Lesson Completed | Yes | Studied files, folders, paths, drives, partitions, Disk Management, cleanup tools, and recovery basics. |
 | 9 | Services and Task Manager | Lesson Completed | Yes | Studied Task Manager, processes, startup apps, Windows services, and safe performance troubleshooting. |
-| 10 | Software Support | Not Started | No | - |
-| 11 | Updates and Drivers | Not Started | No | - |
-| 12 | Windows Troubleshooting Tools | Not Started | No | - |
+| 10 | Software Support | Lesson Completed | Yes | Studied software installation, removal, EXE/MSI installers, admin permission, app repair, and clean reinstall. |
+| 11 | Updates and Drivers | Lesson Completed | Yes | Studied Windows Update, update history, drivers, Device Manager warnings, rollback, and safe driver troubleshooting. |
+| 12 | Windows Troubleshooting Tools | Lesson Completed | Yes | Studied Event Viewer, Reliability Monitor, Safe Mode, System Restore, Recovery, SFC, DISM, and crash troubleshooting. |
 | 13 | Networking Basics | Not Started | No | - |
 | 14 | TCP/IP, DNS, DHCP | Not Started | No | - |
 | 15 | Network Commands | Not Started | No | - |
