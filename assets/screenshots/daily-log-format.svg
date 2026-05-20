@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Daily learning log format visual</title>
+  <desc id="desc">A visual summary of the consistent daily learning log format used across all 45 files.</desc>
+  <rect width="960" height="540" fill="#f8fafc"/>
+  <rect x="120" y="48" width="720" height="444" rx="18" fill="#ffffff" stroke="#dbe3ef"/>
+  <text x="160" y="98" fill="#0f172a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Day XX - Daily Learning Log</text>
+  <rect x="160" y="122" width="210" height="32" rx="16" fill="#dcfce7"/>
+  <text x="182" y="144" fill="#166534" font-family="Arial, sans-serif" font-size="15" font-weight="700">Status: Lesson Completed</text>
+  <g fill="#f1f5f9" stroke="#e2e8f0">
+    <rect x="160" y="184" width="286" height="54" rx="10"/>
+    <rect x="514" y="184" width="286" height="54" rx="10"/>
+    <rect x="160" y="258" width="286" height="54" rx="10"/>
+    <rect x="514" y="258" width="286" height="54" rx="10"/>
+    <rect x="160" y="332" width="286" height="54" rx="10"/>
+    <rect x="514" y="332" width="286" height="54" rx="10"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#334155">
+    <text x="184" y="217">Learning Objectives</text>
+    <text x="538" y="217">Concepts Learned</text>
+    <text x="184" y="291">Help Desk Examples</text>
+    <text x="538" y="291">Troubleshooting Workflows</text>
+    <text x="184" y="365">Documentation Examples</text>
+    <text x="538" y="365">Ticket Note Examples</text>
+  </g>
+  <rect x="160" y="421" width="640" height="36" rx="8" fill="#eff6ff"/>
+  <text x="184" y="445" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="17" font-weight="700">Key takeaways captured for every completed day</text>
+</svg>
